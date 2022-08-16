@@ -5,6 +5,9 @@ You can download datasets from: [IMDB Datasets](https://datasets.imdbws.com/).
 
 Install libraries:
 ```
-pip install pyspark
+conda install pyspark
+conda install pandas
+conda install sqlalchemy
+conda install pyodbc
 ```
 
