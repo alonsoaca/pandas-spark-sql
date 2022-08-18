@@ -9,5 +9,6 @@ conda install pyspark
 conda install pandas
 conda install sqlalchemy
 conda install pyodbc
+conda install -c conda-forge findspark
 ```
 
